@@ -5,34 +5,7 @@
 h4{
      color:#ff0000;
 }
-nav.menu {
-    background-color:#da2d35;
-    padding: 15px;
-    text-align: center;
-}
 
-.menu a {
-      color:#fff;
-      text-decoration: none;
-      font-size:20px;
-}
-
-.menu a:hover{
-    text-shadow: 2px 2px 4px #000000;
-
-}
-
-.menu ul li{
-margin-right: 15%;
-display: inline-block;
-vertical-align: middle;
-}
-
-.menu ul li img:hover{
-    filter: drop-shadow(2px 4px 6px black);
-    transition: 2s;
-
-}
 
 #testando{
     background-color: aqua;
@@ -77,9 +50,6 @@ form input {
 
 
 
-form{   
-    display: inline-block;
-}
 .categorias{
     float: left;
 }
@@ -147,10 +117,3 @@ img.imgContatoWhats{
     display: inline-block;
 }
 
-aside h3{
-    text-align: center;
-    margin-right: 35px;
-}
-ul li {
- margin:34px -6px 0 1px ;   
-}
